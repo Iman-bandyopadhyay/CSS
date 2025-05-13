@@ -1,0 +1,21 @@
+.Change_colour{
+    color: coral;
+}
+#size{
+    font-size: 2em;
+}
+
+#family{
+    font-family:'Caveat',cursive;
+}
+#weight{
+font-weight: 900 ;
+}
+#align{
+text-align: right ;
+}
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+  }
